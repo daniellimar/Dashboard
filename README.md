@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# CadastroFuncionarios
+# Dashboard - Laravel
 
 ## 🚀 Começando
 
